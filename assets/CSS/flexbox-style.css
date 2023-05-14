@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 2 rem auto;
+    padding: 11px;
+    max-width: 1000px;
+}
+
+.flexbox-item {
+    margin-left: 5px;
+    padding: 11px; 
+}
+
